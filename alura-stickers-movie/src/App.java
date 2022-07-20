@@ -9,7 +9,7 @@ import java.util.Map;
 public class App {
     public static void main(String[] args) throws Exception {
 
-        String url = "https://imdb-api.com/pt/API/Top250Movies/k_hami0zaa";
+        String url = "https://mocki.io/v1/9a7c1ca9-29b4-4eb3-8306-1adb9d159060";
         URI endPoint = URI.create(url);
         var client = HttpClient.newHttpClient();
         var request = HttpRequest.newBuilder(endPoint).GET().build();
