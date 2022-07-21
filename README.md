@@ -1,3 +1,3 @@
 # learning-java
 
-Repositório que contém um pouco do meu aprendizado em **JAVA**.
+Repositório que contém um pouco dos meus aprendizados em **JAVA**.
